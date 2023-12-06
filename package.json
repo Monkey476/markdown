@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-markdown": "^9.0.1"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0"
+  }
+}
+
+
